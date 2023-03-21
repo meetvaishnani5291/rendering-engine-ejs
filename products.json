@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Apple MacBook Air",
+    "imgUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT47hoQMw_8uMAAb59-i3wItkWiXXNh-38jbBJv1J1UMnD4Ay6lgbnj9EAUFgIwJo5GBcdjG1CcPW1WMd6vzedz4G63aaQgXOdhroGFUeA&usqp=CAE",
+    "price": 999,
+    "description": "The MacBook Air is a lightweight laptop designed for portability and performance, with a sleek design, Retina display, and long battery life."
+  },
+  {
+    "name": "Bose QuietComfort 35 II",
+    "imgUrl": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc35_ii/product_silo_images/qc35_ii_black_EC_hero.psd/_jcr_content/renditions/cq5dam.web.320.320.png",
+    "price": 299,
+    "description": "The Bose QuietComfort 35 II are wireless noise-cancelling headphones with exceptional sound quality, a comfortable design, and Alexa voice control."
+  },
+  {
+    "name": "Canon EOS R5",
+    "imgUrl": "https://in.canon/media/image/2020/07/04/862a1f43feed4fab85897aee45b6324c_R5_Front_BODY.png",
+    "price": 3899,
+    "description": "The Canon EOS R5 is a professional-grade mirrorless camera with a 45-megapixel full-frame sensor, 8K video capability, and advanced autofocus system."
+  },
+  {
+    "name": "iRobot Roomba i7+",
+    "imgUrl": "http://cdn.shopify.com/s/files/1/0581/9881/8993/products/Irobot_Roomba_I7_Robotic_Vacuum_Cleaner_1_0dbf0ff5-d920-4798-b64d-d04feb928f4e_1200x1200.jpg?v=1641211195",
+    "price": 799,
+    "description": "The iRobot Roomba i7+ is a powerful robot vacuum with automatic dirt disposal, advanced mapping, and Alexa and Google Assistant compatibility."
+  },
+  {
+    "name": "Instant Pot Duo Nova",
+    "imgUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6367/6367869_rd.jpg",
+    "price": 99,
+    "description": "The Instant Pot Duo Nova is a versatile 7-in-1 pressure cooker, slow cooker, rice cooker, steamer, sauté pan, yogurt maker, and warmer, with easy one-touch controls."
+  },
+  {
+    "name": "Shark Navigator Lift-Away",
+    "imgUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSpe-zEBaPnayaV7lOMW0WFcOjICT1AaTikxaGK9BL0iDi73UB9e_8p_ZukHfAPWsem_-Ffvg2sIkXEguPC69ai6MN4Z1p2o6Pr3uMoorhpIIF9lInC4eCVrg&usqp=CAE",
+    "price": 169,
+    "description": "The Shark Navigator Lift-Away is a lightweight upright vacuum with powerful suction and a detachable canister for portable cleaning of stairs and furniture."
+  },
+  {
+    "name": "Nespresso Vertuo Coffee Maker",
+    "imgUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT8kue_EEOXlYpYdZF5V8khwYxtMBHAz2-Hv2pa2xNi88XIJOWGyPBL0RQqW9tEFgft7Qaqfx7php5w2ek7dPvhGoeBMvPzIBPIk1cT3zhiHclQPAAHssozmQ&usqp=CAE",
+    "price": 199,
+    "description": "The Nespresso Vertuo Coffee Maker uses Centrifusion technology to brew rich, flavorful coffee and espresso with the touch of a button, and includes a milk frother for lattes and cappuccinos."
+  },
+  {
+    "name": "Cuisinart Classic Waffle Maker",
+    "imgUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRnTzSuHA7-qWRADIWPGgtcGR9BTno2i6Tp1b64E_2z8ZcOIE0ELk6VjrEZRBQFMpgjKPw3AiSLc4-J2j43JYhVn63nK9s0jrJBrm5ozoQslrzRNyhmDrRllQ&usqp=CAE",
+    "price": 29,
+    "description": "The Cuisinart Classic Waffle Maker makes crispy, golden waffles with deep pockets, adjustable browning control, and nonstick plates for easy cleaning."
+  }
+]
